@@ -1,0 +1,9 @@
+package thread;
+
+public class MultipleCallableRunner {
+
+	public static void main(String[] args) {
+
+	}
+
+}

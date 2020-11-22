@@ -1,0 +1,20 @@
+package thread;
+
+import java.util.concurrent.Callable;
+
+class CallableTask implements Callable<String> {
+
+	@Override
+	public String call() throws Exception {
+		return null;
+	}
+	
+}
+public class CallableRunner {
+
+	public static void main(String[] args) {
+
+		
+	}
+
+}
